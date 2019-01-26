@@ -1,2 +1,3 @@
-# janDevClass-BLOG
-PHP and MySQL Portfolio during my Kredo class
+# janDev2019
+
+PHP and MySQL Portfolio.
